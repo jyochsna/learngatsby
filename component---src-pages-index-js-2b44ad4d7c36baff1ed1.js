@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return r}));var o=t("q1tI"),i=t.n(o);function r(){return i.a.createElement("div",{style:{color:"purple",fontSize:"72px"}},"Hello Gatsby!!! This is updated.")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2b44ad4d7c36baff1ed1.js.map
